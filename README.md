@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PRATEEK
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning react.js & node.js
 - 💞️ I’m looking to collaborate on webpages
 - 📫 get me on linkedin 
 
