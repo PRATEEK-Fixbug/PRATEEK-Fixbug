@@ -43,8 +43,8 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/prateek-kumar-singh"><img src="https://img.shields.io/badge/LinkedIn-Prateek%20Kumar%20Singh-blue?logo=linkedin&style=for-the-badge"></a>
-  <a href="mailto:prateek@example.com"><img src="https://img.shields.io/badge/Email-prateek-red?logo=gmail&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/prateek-singh-7234b3258"><img src="https://img.shields.io/badge/LinkedIn-Prateek%20Kumar%20Singh-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="calledasprateek@gmail.com"><img src="https://img.shields.io/badge/Email-prateek-red?logo=gmail&style=for-the-badge"></a>
   <a href="https://github.com/PRATEEK-Fixbug"><img src="https://img.shields.io/badge/GitHub-PRATEEK--Fixbug-black?logo=github&style=for-the-badge"></a>
 </p>
 
