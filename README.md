@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Prateek Kumar Singh</h1>
-<h3 align="center">💻 MERN Stack Developer | 🚀 Web Enthusiast | 🎨 Creative Thinker</h3>
+<h3 align="center">💻 MERN Stack Developer | 🚀 Web Enthusiast | Data Science & ML Enthusiast | 🎨 Creative Thinker</h3>
 
 ---
 
